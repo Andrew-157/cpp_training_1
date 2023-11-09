@@ -15,4 +15,6 @@ int main()
     }
     // Uncomment the following line and observe an error
     // cout << myString << endl;
+
+    return 0;
 }
