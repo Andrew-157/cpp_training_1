@@ -13,4 +13,6 @@ int main()
 
     double myDouble;
     myDouble = 23.4556;
+
+    return 0;
 }
