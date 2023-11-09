@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Logical operators
-
 // 1. Declare two boolean variables named a and b.
 // 2. Initialize a to true and b to false.
 // 3. Declare a third boolean variable named result.
