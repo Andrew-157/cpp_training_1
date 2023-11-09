@@ -22,4 +22,6 @@ int main()
     product = myInt * userInt;
 
     cout << product << endl;
+
+    return 0;
 }
