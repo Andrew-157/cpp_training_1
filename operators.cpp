@@ -46,4 +46,6 @@ int main()
     int d = 5;
     d += 2;            // same as d = d + 2
     cout << d << endl; // Output: 7
+
+    return 0;
 }
