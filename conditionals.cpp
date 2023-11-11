@@ -52,7 +52,7 @@ int main()
         cout << "The ride speed is at the speed limit." << endl;
     }
 
-    // Use logical operators in conditions
+    // Use logical operators in if, else if
     speedLimit = 50, rideSpeed = 65;
     if (speedLimit == 50 && rideSpeed == 65)
     {
