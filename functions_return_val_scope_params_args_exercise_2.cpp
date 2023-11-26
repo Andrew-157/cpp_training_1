@@ -8,7 +8,7 @@ using namespace std;
 
 double power(double base, double exponent)
 {
-    int result = base;
+    double result = base;
     while (exponent != 1)
     {
         result *= base;
