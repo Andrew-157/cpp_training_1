@@ -79,5 +79,22 @@ int main()
 
     cout << a << endl;
 
+    // Substring
+
+    string s1 = "Someone";
+    string s2 = s1.substr(4, 3);
+
+    cout << s2 << endl;
+
+    // Replace
+
+    string c = "C   Python";
+    string d = "Java";
+    cout << c << endl;
+    cout << c.replace(0, 4, d) << endl;
+    cout << c << endl;
+
+    // Upper/lower case
+
     return 0;
 }
